@@ -8,6 +8,10 @@
 <h2 align="center">Hi 👋, I'm Numchai</h2>
 
 <p align="center">
+  Backend-focused developer who enjoys building practical apps, automating workflows, and running self-hosted systems.
+</p>
+
+<p align="center">
   <a href="https://www.facebook.com/nc.wjj.2025/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -22,11 +26,12 @@
   />
 </p>
 
-## About
+## About Me
 
-- Focus: backend + mobile apps + self-hosted/homelab
-- I like: automation, monitoring, and clean system setup
-- Contact: Facebook link above
+- 🔧 Focused on backend development, mobile apps, and homelab projects
+- 🧠 Interested in automation, monitoring, and reliable self-hosted infrastructure
+- 🐳 Comfortable working with Docker, Linux, databases, and deployment workflows
+- 📫 Contact: Facebook link above
 
 ## Tech Stack
 
@@ -48,6 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="36" alt="Raspberry Pi" title="Raspberry Pi" />
   <img src="https://img.icons8.com/color/48/proxmox.png" height="36" alt="Proxmox" title="Proxmox" />
 </p>
+
+## What I Usually Build
+
+- Backend services and APIs
+- Mobile and desktop app experiments
+- Self-hosted tooling for monitoring and automation
+- Homelab workflows around containers, networking, and system operations
 
 ## GitHub Stats
 
@@ -90,16 +102,3 @@
     alt="Trophies"
   />
 </p>
-
-<details>
-  <summary>Optional: Featured Repos</summary>
-
-  <p>
-    Replace `repo=` with your best projects.
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NCWJJ-BOX&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" alt="Repo card 1" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NCWJJ-BOX&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Repo card 2" />
-  </p>
-</details>
