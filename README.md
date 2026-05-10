@@ -51,16 +51,12 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=NCWJJ-BOX&theme=tokyonight&hide_border=true"
-        alt="GitHub streak"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=NCWJJ-BOX&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
 
 
 ## Activity
