@@ -91,11 +91,4 @@
   />
 </p>
 
-<details>
-  <summary>Optional: Featured Repos</summary>
 
-  <p>
-    Replace `repo=` with your best projects.
-  </p>
-
-</details>
