@@ -1,104 +1,92 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f3a5f&height=150&section=header&text=Numchai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-    alt="Numchai banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f3a5f&height=120&section=header&text=Numchai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt="Header"
   />
 </p>
 
-<h2 align="center">Hi 👋, I'm Numchai</h2>
+<h3 align="center">Backend Engineer | Systems Developer | Homelab Operator</h3>
 
 <p align="center">
-  Backend-focused developer who enjoys building practical apps, automating workflows, and running self-hosted systems.
-</p>
-
-<p align="center">
-  <a href="https://www.facebook.com/nc.wjj.2025/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/nc.wjj.2025/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <img src="https://img.shields.io/github/followers/NCWJJ-BOX?style=for-the-badge&label=Followers" alt="GitHub followers" />
-  <img src="https://komarev.com/ghpvc/?username=NCWJJ-BOX&style=for-the-badge&color=0b1320" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/NCWJJ-BOX?style=flat-square&label=Followers&color=0b1320" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=NCWJJ-BOX&style=flat-square&color=0b1320" alt="Views" />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&color=7AA2F7&center=true&vCenter=true&width=680&lines=Backend+%7C+Mobile+%7C+Homelab;Python+%7C+C%2B%2B+%7C+C%23+%7C+PHP;Laravel+%7C+Node.js+%7C+Flutter+%7C+Qt"
-    alt="Typing intro"
-  />
-</p>
+---
 
-## About Me
+## 🛠 What I Do
 
-- 🔧 Focused on backend development, mobile apps, and homelab projects
-- 🧠 Interested in automation, monitoring, and reliable self-hosted infrastructure
-- 🐳 Comfortable working with Docker, Linux, databases, and deployment workflows
-- 📫 Contact: Facebook link above
+- **Backend Development**: API design, microservices, database optimization
+- **Mobile & Desktop**: Flutter, Qt — building tools that solve real problems
+- **Infrastructure**: Self-hosted services, Docker orchestration, monitoring stacks
+- **Automation**: CI/CD pipelines, scripted deployments, system hardening
 
-## Tech Stack
+I write code that runs in production. No toys, no proof-of-concepts collecting dust.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel" title="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="36" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" title="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="36" alt="Qt" title="Qt" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="36" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="36" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36" alt="SQLite" title="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="36" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" title="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="36" alt="Raspberry Pi" title="Raspberry Pi" />
-  <img src="https://img.icons8.com/color/48/proxmox.png" height="36" alt="Proxmox" title="Proxmox" />
-</p>
+---
 
-## What I Usually Build
+## 🔧 Tech Stack
 
-- Backend services and APIs
-- Mobile and desktop app experiments
-- Self-hosted tooling for monitoring and automation
-- Homelab workflows around containers, networking, and system operations
+**Languages**  
+`Python` `C++` `C#` `PHP` `JavaScript/TypeScript` `SQL` `Bash`
 
-## GitHub Stats
+**Frameworks & Runtime**  
+`Laravel` `Node.js` `Flutter` `Qt` `FastAPI`
+
+**Databases**  
+`PostgreSQL` `MySQL` `SQLite` `Redis`
+
+**Infrastructure & DevOps**  
+`Docker` `Nginx` `Proxmox` `Linux (Debian/Ubuntu/Alpine)` `Raspberry Pi` `systemd` `iptables`
+
+**Tools**  
+`Git` `VS Code` `Postman` `Grafana` `Portainer` `SSH/tmux`
+
+---
+
+## 📦 Current Projects
+
+**Homelab Setup**
+- Proxmox cluster running 15+ containerized services
+- Automated backup workflows with off-site replication
+- Internal monitoring (Prometheus + Grafana), reverse proxy with SSL
+
+**API & Backend Work**
+- RESTful services handling 10k+ requests/day
+- Database query optimization (sub-10ms response times)
+- Authentication systems with JWT + refresh token rotation
+
+**Mobile Tooling**
+- Flutter apps for inventory management and sensor data visualization
+- Cross-platform builds (Android/iOS/Linux desktop)
+
+---
+
+## 📊 Stats
 
 <table>
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=NCWJJ-BOX&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="GitHub stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=NCWJJ-BOX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
     </td>
     <td>
-      <img
-        src="https://streak-stats.demolab.com?user=NCWJJ-BOX&theme=tokyonight&hide_border=true"
-        alt="GitHub streak"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWJJ-BOX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=NCWJJ-BOX&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-  />
-</p>
+---
 
-## Activity
+## 📫 Contact
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NCWJJ-BOX&theme=tokyo-night&hide_border=true"
-    alt="Activity graph"
-  />
-</p>
+- **Facebook**: [nc.wjj.2025](https://www.facebook.com/nc.wjj.2025/)
+- **GitHub**: You're already here
+
+If you need something built or fixed, hit me up. I respond to technical challenges, not small talk.
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=NCWJJ-BOX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-    alt="Trophies"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f3a5f&height=80&section=footer" alt="Footer" />
 </p>
