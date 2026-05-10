@@ -54,9 +54,6 @@
 <table>
   <tr>
     <td>
-     
-    </td>
-    <td>
       <img
         src="https://streak-stats.demolab.com?user=NCWJJ-BOX&theme=tokyonight&hide_border=true"
         alt="GitHub streak"
