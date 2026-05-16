@@ -61,15 +61,45 @@ contact: facebook.com/nc.wjj.2025
 
 <h3 align="center">Featured Projects</h3>
 
-<p align="center">
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+  </tr>
 
-| Project | Description |
-|:---------:|:-------------:|
-| [shop-show-case.box-dex.win](https://shop-show-case.box-dex.win/) | E-commerce marketplace showcase |
-| [blog.box-dex.win](https://blog.box-dex.win/) | Homelab / Proxmox / OPNsense blog |
-| [info.box-dex.win](https://info.box-dex.win/) | Developer portfolio |
+  <tr>
+    <td align="center">
+      <a href="https://shop-show-case.box-dex.win/">
+        shop-show-case.box-dex.win
+      </a>
+    </td>
+    <td align="center">
+      E-commerce marketplace showcase
+    </td>
+  </tr>
 
-</p>
+  <tr>
+    <td align="center">
+      <a href="https://blog.box-dex.win/">
+        blog.box-dex.win
+      </a>
+    </td>
+    <td align="center">
+      Homelab / Proxmox / OPNsense blog
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://info.box-dex.win/">
+        info.box-dex.win
+      </a>
+    </td>
+    <td align="center">
+      Developer portfolio
+    </td>
+  </tr>
+</table>
 
 ---
 
