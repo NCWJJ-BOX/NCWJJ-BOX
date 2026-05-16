@@ -19,7 +19,7 @@
 
 ---
 
-### About
+<h3 align="center">About</h3>
 
 ```yaml
 name: Numchai
@@ -31,9 +31,9 @@ contact: facebook.com/nc.wjj.2025
 
 ---
 
-### Languages & Frameworks
+<h3 align="center">Languages & Frameworks</h3>
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="C#" title="C#" />
@@ -44,9 +44,9 @@ contact: facebook.com/nc.wjj.2025
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="36" alt="Qt" title="Qt" />
 </p>
 
-### Infrastructure & Tools
+<h3 align="center">Infrastructure & Tools</h3>
 
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="36" alt="Docker" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" title="Nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux" />
@@ -59,17 +59,21 @@ contact: facebook.com/nc.wjj.2025
 
 ---
 
-### Featured Projects
+<h3 align="center">Featured Projects</h3>
+
+<p align="center">
 
 | Project | Description |
-|---------|-------------|
+|:---------:|:-------------:|
 | [shop-show-case.box-dex.win](https://shop-show-case.box-dex.win/) | E-commerce marketplace showcase |
 | [blog.box-dex.win](https://blog.box-dex.win/) | Homelab / Proxmox / OPNsense blog |
 | [info.box-dex.win](https://info.box-dex.win/) | Developer portfolio |
 
+</p>
+
 ---
 
-### GitHub Stats
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NCWJJ-BOX&theme=tokyonight&hide_border=true&border_radius=8" />
