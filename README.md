@@ -116,5 +116,9 @@ contact: facebook.com/nc.wjj.2025
 <p align="center">
 
 <p align="center">
+  <img src="https://profile-trophy.vercel.app/?username=NCWJJ-BOX&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f3a5f&height=100&section=footer" />
 </p>
