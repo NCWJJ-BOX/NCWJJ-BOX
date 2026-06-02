@@ -114,8 +114,6 @@ contact: facebook.com/nc.wjj.2025
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api/top-langs?username=NCWJJ-BOX&theme=tokyonight&hide=html,css&layout=compact&langs_count=6" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1320,100:1f3a5f&height=100&section=footer" />
