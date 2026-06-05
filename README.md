@@ -89,16 +89,7 @@ contact: facebook.com/nc.wjj.2025
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <a href="https://info.box-dex.win/">
-        info.box-dex.win
-      </a>
-    </td>
-    <td align="center">
-      Developer portfolio
-    </td>
-  </tr>
+
 </table>
 
 ---
